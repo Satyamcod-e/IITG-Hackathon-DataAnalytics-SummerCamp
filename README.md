@@ -9,7 +9,7 @@ I created a pipeline with this preprocessing step and a logistic regression mode
 
 Finally, I prepared the submission file by filling it with these predicted probabilities and saved it as `output_LogisticRegression.csv`.
 
-Here's a concise summary of the approach in the first person:
+Here's a concise summary of the approach for the second model using RandomForestClassifier:
 
 I did everything same as earlier, but I used RandomForestClassifier model.
 
